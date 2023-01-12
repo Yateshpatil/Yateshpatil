@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yateshpatil
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning various Data Analysis tools like **SQL,Python,Excel,PowerBI,Tableau**
+- 🌱 I’m currently learning various Data Analysis tools like **Excel,SQL,Python,PowerBI,Tableau**
 - 📫 Reachout me at yateshpatil866@gmail.com
 
 **Connect with me**
